@@ -1,16 +1,30 @@
-## Hi there 👋
+## hellooo human
+
+🪴🍀🌷🌱🪴🪴🍀🍀🌱🌲🌳🌴🌳🌱🌷🌲🌴🌾🪴🍀🌾🍀🌵🪴🌷🌾
+🌾🌾🪴🌳🌴🌾🌷🌾🌻🌷🌷🌲🌱🌲🌱🌾🌱🌷🌴🪴🍀🌳🪴🌷🌵🌵
+🍀🌷🌲🪴🌲🍀🌲🪴🪴🌳🌾🌳🍀🪴🌲🌳🪴🌷🌻🍀🪴🌱🌲🌷🌵🌵
+🌵🌲🌻🌱🌾🌻🌾🍀🌾🌴🌵🌻🌾🌳🌴🌷🌴🌵🌻🌻🌵🌱🍀🪴🌵🍀
+🌻🌵🌻🌳🌴🌲🍀🌴🌵🌻🌳🌴🌷🌻🍀🌳🌻🌲🌲🌴🌳🌾🍀🌵🌻🌵
+🍀🌲🌲🌾🌳🌱🌵🌻🍀🌲🌾🌾🪴🌲🌵🍀🌻🌱🌴🌾🌷🌳🌻🌲🌲🌷
+🍀🌾🌳🌾🌱🌱🌷🌵🌳🌳🌳🌳🌳🌵🌵🌻🌾🌷🍀🌵🍀🌳🌾🌻🪴🍀
+🌲🌾🌴🍀🌴🍀🌳🌴🌱🌻🪴🦊🪴🌷🌵🍀🌳🌻🌴🍀🌳🪴🌱🌾🪴🌴
+🪴🍀🌴🪴🌳🌾🌾🌴🍀🌲🌻🪴🍀🍀🌳🌱🍀🍀🌷🪴🌱🌲🌻🌷🌱🌷
+🪴🌴🌲🍀🌷🌲🌾🪴🌵🌱🌵🌱🌴🌳🍀🌴🌴🌳🌳🌷🌾🌷🌲🌳🌴🍀
+🌱🪴🪴🌴🌻🌻🪴🌴🌻🌻🪴🌷🪴🌲🌳🌵🌴🌻🌲🌵🌴🌷🌷🌴🌳🌴
+🌷🌵🌱🍀🌴🌷🌱🌲🌾🌱🌷🍀🌴🪴🌱🌷🌾🌲🌳🌵🍀🪴🌵🌱🌳🪴
+🌴🪴🪴🌵🌳🌳🌳🌳🍀🍀🌴🌵🌻🍀🌲🍀🌴🌷🌵🌷🌴🌴🍀🌳🌲🌲
+🌱🪴🌷🌷🌻🪴🌾🪴🌾🌷🪴🌾🌳🌳🪴🌾🌲🌷🍀🌴🍀🍀🌴🌳🌷🍀
+🌲🌳🌵🌻🌳🌳🌻🌱🍀🌵🌴🌴🌵🌾🌴🌾🌷🌾🌻🌷🌻🌻🌲🌷🍀🌷
+🌵🌲🌻🌳🌻🌳🌴🌱🌷🌻🌱🌻🌴🪴🌱🍀🌻🪴🌷🌷🌻🌲🌻🍀🍀🌻
 
 <!--
-**frostedkitsune/frostedkitsune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+const emojiStr = "🌱🌲🌳🌴🌵🌾🪴🌷🌻🍀";
+const emojiArr = Array.from(emojisStr);
+let printStr = "";
+for(r = 0; r < 16; r++) {
+    for(c = 0; c < 26; c++) { // 16 * 1.618 ≈ 26
+        printStr += arr[Math.floor(Math.random()*10)]
+    }
+  printStr += "\n"
+}
 -->
